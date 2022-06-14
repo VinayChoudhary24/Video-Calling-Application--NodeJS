@@ -1,6 +1,6 @@
 # plan of action
 
-STEP1-2:- initialize our nodejs project. 
+STEP1-2:- initialize our nodejs project.[Always Initialize Setup/Environment in BASH Terminal, not in Node, Powershell, cmd]
 
 STEP3:- initialize our first view from JS to EJS(for rooms create HTML FILE i.e ROOM.EJS in FOLDER VIEWS) 
 
